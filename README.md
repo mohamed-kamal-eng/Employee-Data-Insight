@@ -17,7 +17,8 @@ This project is focused on analyzing employee data, including salaries, job type
 - Git LFS (for handling large database files)
 
 ## Getting Started
-1. Clone the repository:
+1. Clone the repository:https://github.com/mohamed-kamal-eng/Employee-Data-Insight
    ```bash
 https://github.com/mohamed-kamal-eng/Employee-Data-Insight
+
 
