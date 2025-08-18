@@ -22,9 +22,9 @@ This project is focused on analyzing employee data, including salaries, job type
   https://github.com/mohamed-kamal-eng/Employee-Data-Insight
   ```bash
 
-  open:
+
   https://github.com/mohamed-kamal-eng/Employee-Data-Insight
-  خ
+
 
 
 
