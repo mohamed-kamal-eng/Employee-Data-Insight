@@ -19,10 +19,13 @@ This project is focused on analyzing employee data, including salaries, job type
 ## Getting Started
 1. Clone the repository:
    
-  https://github.com/mohamed-kamal-eng/Employee-Data-Insight ```bash
+  https://github.com/mohamed-kamal-eng/Employee-Data-Insight
+  ```bash
+
   open:
   https://github.com/mohamed-kamal-eng/Employee-Data-Insight
   خ
+
 
 
 
