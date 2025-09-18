@@ -15,11 +15,7 @@ This project is focused on analyzing employee data, including salaries, job type
 - Matplotlib / Seaborn (optional for visualization)
 - Git & GitHub (for version control)
 - Git LFS (for handling large database files)
-  ## 🎥 شرح البرنامج
-
-[![Watch the video](compny.jpg)](company.mp4)
-
-
+  ## 🎥 شرح البرنا
 ## Getting Started
 1. Clone the repository:
    
@@ -28,6 +24,7 @@ This project is focused on analyzing employee data, including salaries, job type
 
 
   https://github.com/mohamed-kamal-eng/Employee-Data-Insight
+
 
 
 
